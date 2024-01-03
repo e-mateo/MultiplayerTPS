@@ -1,0 +1,1 @@
+start "" "C:\Program Files\Epic Games\UE_5.2\Engine\Binaries\Win64\UnrealEditor.exe" "%CD%\ShooterMulti.uproject" ClientBoot -game -ResX=600 -ResY=500 -WinX=0 -WinY=20 -WINDOWED -log -nosteam
