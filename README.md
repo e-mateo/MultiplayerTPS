@@ -1,5 +1,6 @@
 # Mulitplayer TPS
 
+![png](./Images/Game1.png)<br>
 Portfolio Link: https://merbistigp.editorx.io/portfolio-mateo/blank-3-3-1-1 <br>
 
 ## Introduction
@@ -8,7 +9,7 @@ Network system. <br>
 The objective was to transition an offline TPS shooter to a Client/Server multiplayer one.<br>
 This project has been made by RABINNE Lenny and ERBISTI Matéo, programming
 students at Isart Digital Paris.<br>
-It started on November 2nd and finished on November 28th.<br>
+It started on November 2nd 2023, and finished on November 28th 2023.<br>
 
 ## How to open the project
 To launch a server open StartDedicatedServer.bat. You can open the .bat file with the
@@ -42,4 +43,9 @@ matter how.<br>
 • Replicated Health pack and munition spawners.<br>
 • Created lobby and sessions with a dedicated server.<br>
 • Created Kill feed and Leaderboard.<br>
-• Updated the HUD to work on each client.<br>
+• Updated the HUD to work on each client.<be>
+
+![png](./Images/Kill.png)<br>
+![png](./Images/AI.png)<br>
+![png](./Images/Leaderboard.png)<br>
+![png](./Images/Sessions.png)<br>
