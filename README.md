@@ -20,12 +20,14 @@ You can then start adding clients by opening StartClient.bat. Be careful about t
 Unreal Engine path in the .bat as for the dedicated server.<br>
 We have made LAN sessions so you must be on the same network as the dedicated server.<br>
 
-##Game:
+## Game:
 The game is a Team Deathmatch that lasts for 5 minutes or stops if one team goes to 20
 kills. You either get points by killing a player from another team or if an opponent dies no
 matter how.<br>
+There are also AI spawners which you should pay attention to because AI will try to kill you. <br>
+You can interact with AI spawners to spawn friendly AI during a short time that will only hunt players of the other team. <br>
 
-##Controls:
+## Controls:
 • WASD: Move<br>
 • Space: Jump<br>
 • LMB: Shoot<br>
@@ -46,6 +48,6 @@ matter how.<br>
 • Updated the HUD to work on each client.<be>
 
 ![png](./Images/Kill.png)<br>
-![png](./Images/AI.png)<br>
+![png](./Images/AIs.png)<br>
 ![png](./Images/Leaderboard.png)<br>
 ![png](./Images/Sessions.png)<br>
