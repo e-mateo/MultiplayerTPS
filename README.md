@@ -1,15 +1,14 @@
 # Mulitplayer TPS
 
 ![png](./Images/Game1.png)<br>
-Portfolio Link: https://merbistigp.editorx.io/portfolio-mateo/blank-3-3-1-1 <br>
+[Portfolio](https://merbistigp.editorx.io/portfolio-mateo/blank-3-3-1-1) <br>
 
 ## Introduction
 Third Person Multi is a game project made on Unreal Engine 5, focused on Unreal's
 Network system. <br>
 The objective was to transition an offline TPS shooter to a Client/Server multiplayer one.<br>
-This project has been made by RABINNE Lenny and ERBISTI Matéo, programming
-students at Isart Digital Paris.<br>
-It started on November 2nd 2023, and finished on November 28th 2023.<br>
+This project has been made by **RABINNE Lenny** and **ERBISTI Matéo**, programming students at Isart Digital Paris.<br>
+It started on **November 2nd, 2023**, and finished on **November 28th, 2023**.<br>
 
 ## How to open the project
 To launch a server open StartDedicatedServer.bat. You can open the .bat file with the
